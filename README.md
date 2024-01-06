@@ -5,6 +5,15 @@
 
 A CLI tool to generate react components with ease.
 
+## Initialize a react app 
+> If you already have a one you can skip to Installation
+
+```
+npx create-react-app [project_name]
+cd [project_name]
+```
+> ex. [project_name]= my_app
+
 # Installation
 
 to install use
@@ -21,7 +30,7 @@ npm install -g react-gen-component
 
 # Usage
 
-To run the script use;
+running this script will generate a new component 
 
 ```
 npx react-gen-component
