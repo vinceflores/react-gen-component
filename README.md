@@ -1,6 +1,7 @@
 # react-gen-component
 
-### v1.0.0
+### [Github](https://github.com/vinceflores/react-gen-component) v1.0.0
+
 
 A CLI tool to generate react components with ease.
 
