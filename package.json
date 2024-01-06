@@ -1,6 +1,6 @@
 {
   "name": "@vinceflores/react-gen-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to generate react components with ease",
   "main": "index.js",
   "type": "module",
